@@ -3,7 +3,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [Unreleased](https://github.com/veeqo/activejob-uniqueness/compare/v0.4.0...HEAD)
+## [Unreleased](https://github.com/innowellteam/activejob-uniqueness/compare/v0.4.1...HEAD)
+
+## [0.4.1](https://github.com/innowellteam/activejob-uniqueness/compare/v0.4.0...v0.4.1) - 2026-11-10
+
+### Changed
+- Allow ActiveJob 8.1. No code changes: the lock, strategies and Sidekiq patch are the same as 0.4.0.
 
 
 ## [0.4.0](https://github.com/veeqo/activejob-uniqueness/compare/v0.3.2...v0.4.0) - 2024-12-07
